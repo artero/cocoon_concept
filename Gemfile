@@ -15,6 +15,7 @@ gem 'turbolinks'
 gem 'spring',        group: :development
 
 gem 'activeadmin'
+# gem 'cocoon_admin', :path => './vendor/cocoon_admin'
 gem "devise"
 
 gem "faker"
